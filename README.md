@@ -1,5 +1,5 @@
 # Sorting-Visualizer-Using-Python
-I have done Sorting Visualizer project for merge sort algorithm.
+I have done Sorting Visualizer project for merge sort algorithm in Python programming language.
 You can do it for other sorting algorithm.
 
 Environment Set Up:
